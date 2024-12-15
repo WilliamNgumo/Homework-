@@ -1,0 +1,182 @@
+/* main {
+  background-image: url(whi);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+} */
+
+body {
+  background-color: rgb(0, 0, 0);
+  align-content: flex-end;
+}
+
+.ddgs {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.introduction {
+  text-align: center;
+}
+
+.Araw {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.zzw {
+  background-color: coral;
+}
+
+.thisStory {
+  color: azure;
+  font-family:fantasy;
+  text-decoration-style: dotted;
+
+
+}
+.thisStory p {
+  color: yellow;
+  padding: 10px;
+}
+
+
+.stor {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  background-color: coral;
+
+}
+.story {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  background-image: url(hq720.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+
+}
+
+.story h3 {
+  color: aqua;
+}
+
+.story p {
+  text-justify: initial;
+}
+
+
+.hero {
+  background-image: url(hq720.jpg);
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  background-attachment: fixed;
+
+}
+
+.hero h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: yellow;
+}
+
+.hero p {
+  font: size 20px;
+  margin-bottom: 30px;
+  color: coral;
+
+}
+.pop p {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  background-color: coral;
+  border-radius: 5px;
+  padding-block-start: 5px;
+}
+
+.ron {
+  color: orange;
+}
+
+
+#Division {
+  color: rgb(255, 230, 0);
+  text-decoration: wavy;
+
+}
+
+iframe {
+   align-items: center;
+}
+
+.rain {
+  color: rgb(0, 0, 0);
+  background-color: coral;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.rain h1 {
+  color: rgb(242, 255, 0);
+}
+
+.TheGain {
+  color: black;
+  background-color: coral;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  gap: 20px;
+
+}
+.TheGain h2 {
+  color: black;
+}
+
+.end {
+  color: azure;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.end h1 {
+  color: yellow;
+  text-align: center;
+}
+
+.end ul {
+  font-family: fantasy;
+}
+
+#oli {
+  color: azure;
+  text-align: center;
+  padding: 1px;
+  margin-top: 2px;
+}
+
+.footer-site {
+  color: azure;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+}
+
+.socials {
+  margin-top: 10px;text-decoration: underline;
+}
