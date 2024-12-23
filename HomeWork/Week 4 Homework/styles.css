@@ -54,7 +54,7 @@ body {
   text-align: center;
   background-image: url(hq720.jpg);
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
@@ -78,7 +78,6 @@ body {
   background-image: url(hq720.jpg);
   text-align: center;
   padding: 100px 20px;
-  background-color: #f0f0f0;
   border-radius: 5px;
   background-attachment: fixed;
 
@@ -180,3 +179,4 @@ iframe {
 .socials {
   margin-top: 10px;text-decoration: underline;
 }
+
