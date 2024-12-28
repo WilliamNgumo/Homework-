@@ -303,9 +303,9 @@ const todo =[
 // create a list of user 3's to-dos
 
 const user3Todos = todo.filter (todo => todo.userId === 3);
-console.log(user3Todos);
+console.log("User 3's To-Dos:", user3Todos);
 
 // then find the number of user 3's incomplete tasks
 
-const user3incomplete = user3Todos.filter (todo => todo.completed == false);
-console.log (user3incomplete);
+const user3incomplete = user3Todos.filter(todo => todo.completed=== false);
+console.log ("Number of User 3's Incomplete Tasks:", user3incomplete.length);
